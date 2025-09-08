@@ -1,0 +1,39 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Acerca"
+url = "/about"
+weight = 10
+
+[[main]]
+name = "Jogos"
+url = "/games"
+weight = 20
+
+[[main]]
+name = "Novidades"
+url = "/news"
+weight = 30
+
+[[main]]
+name = "Contacto"
+url = "/contact"
+weight = 40
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Elements"
+url = "/elements"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 3
